@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sugar Bloom Cakes</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Sugar Bloom Cakes</h1>
+    <p>“Baked Sweet. Styled Beautiful.”</p>
+  </header>
+
+  <section class="hero">
+    <h2>Custom Cakes for Every Celebration 🎂</h2>
+    <br />
+    <button class="button" onclick="orderNow()">Order Now</button>
+  </section>
+
+  <footer>
+    &copy; 2025 Sugar Bloom Cakes. All rights reserved.
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
