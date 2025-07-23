@@ -1,0 +1,3 @@
+function orderCake() {
+  alert("Thanks for your order! We'll contact you soon 🍰💌");
+}
